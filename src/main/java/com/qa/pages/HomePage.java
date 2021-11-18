@@ -18,5 +18,5 @@ public class HomePage extends TestBase {
 		PageFactory.initElements(driver, this);
 	}
 	
-	// comment
+	// comment test
 }
